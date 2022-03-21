@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552005523 source:e:\arquivos\backup\importante\estudo\prog\c++_estacio\readandprint\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
